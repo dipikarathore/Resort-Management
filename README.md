@@ -65,7 +65,7 @@ Follow these steps to run the project locally:
 2. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/dipikarathore/Resort-Management-System.git
+   git clone [https://github.com/dipikarathore/Resort-Management.git]
    ```
 
 3. **Move Project to htdocs**
